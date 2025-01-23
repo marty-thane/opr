@@ -13,6 +13,8 @@
 
 ## Kódy
 
+Níže naleznete MWE (*minimal working example*) optimalizace v Pythonu a MATLABu.
+
 ### PuLP
 
 ```
