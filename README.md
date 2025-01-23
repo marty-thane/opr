@@ -4,6 +4,13 @@
 
 - [AtoZmath.com](https://cbom.atozmath.com/Menu/CBomMenu.aspx)
 
+## Videa
+
+### PERT/CPM
+
+- Critical path: [ODKAZ](https://youtu.be/-TDh-5n90vk)
+- Crashing: [ODKAZ](https://youtu.be/zYnyGU9WSCk)
+
 ## Kódy
 
 ### PuLP
@@ -52,7 +59,3 @@ disp(sol)
 disp(fval)
 ```
 
-## CPM/PERT
-
-- základy: [VIDEO](https://youtu.be/-TDh-5n90vk)
-- crashing: [VIDEO](https://youtu.be/zYnyGU9WSCk)
