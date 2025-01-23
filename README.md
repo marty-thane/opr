@@ -2,7 +2,7 @@
 
 ## Online solvery
 
-- [AtoZmath.com](https://cbom.atozmath.com/Menu/CBomMenu.aspx)
+- [AtoZmath.com](https://cbom.atozmath.com/Menu/CBomMenu.aspx): nejúplnější, s postupy a příklady
 
 ## Videa
 
