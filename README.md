@@ -40,7 +40,7 @@ for var in prob.variables():
 print(f"z = {prob.objective.value()}")
 ```
 
-### Matlab
+### MATLAB
 
 ```
 prob = optimproblem("ObjectiveSense", "maximize");
