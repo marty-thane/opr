@@ -6,6 +6,10 @@
 
 ## Videa
 
+### Simplex
+
+One phase: [ODKAZ](https://www.youtube.com/watch?v=9YKLXFqCy6E)
+
 ### PERT/CPM
 
 - Critical path: [ODKAZ](https://youtu.be/-TDh-5n90vk)
